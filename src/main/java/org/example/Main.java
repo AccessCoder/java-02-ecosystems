@@ -18,5 +18,11 @@ public class Main {
                 .orElseThrow();
 
         System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
+        System.out.println(x);
     }
 }
